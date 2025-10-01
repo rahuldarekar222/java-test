@@ -20,6 +20,7 @@ import java.util.*;
 
 // const hostname = '0.0.0.0';
 // const port = 3000;
+
 public class Main {
     // Placeholder for sequelize, User, Password
     // In Java we have no direct "sequelize" or "User" model as defined.
